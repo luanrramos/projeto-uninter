@@ -62,7 +62,7 @@ export default function Login() {
   return (
     <div className="flex min-h-screen bg-white">
       <div className="hidden lg:flex flex-col justify-between w-5/12 bg-gradient-to-br from-violet-700 to-indigo-900 p-12 text-white relative overflow-hidden">
-        <div className="absolute top-0 left-0 w-full h-full bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10"></div>
+        <div className="absolute top-0 left-0 w-full h-full  opacity-10"></div>
 
         <div className="relative z-10 flex items-center gap-3">
           <div className="p-2 bg-white/10 rounded-lg backdrop-blur-sm">
